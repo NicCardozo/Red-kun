@@ -18,7 +18,7 @@ python-Levenshtein==0.12.0
 PyYAML==3.13
 raven==6.9.0
 raven-aiohttp==0.7.0
-git+https://github.com/NNTin/Red-DiscordBot@lavalink-v3#egg=Red-DiscordBot
+git+https://github.com/Cog-Creators/Red-DiscordBot@V3-develop#egg=Red-Lavalink
 git+https://github.com/NNTin/Red-Lavalink@lavalink-v3#egg=Red-Lavalink
 schema==0.6.8
 websockets==6.0
